@@ -48,7 +48,16 @@ https://www.google.com/maps/dir/Kiel,+Germany/Bremen,+Germany/Amsterdam,+Netherl
 Day 3:
 19.07
 
-Amsterdam -> Brugge -> Dunkirk
+Заехать еще вот сюда по дороге:
+
+![39a92e10-65d5-4e51-8d46-fa4b3ff035bb-1_all_349.png](/attachments/images/39a92e10-65d5-4e51-8d46-fa4b3ff035bb-1_all_349.png)
+
+
+Amsterdam -> 
+
+Brugge -> 
+
+Dunkirk
 ![Clipboard_2026-02-07-18-30-45.png](/attachments/images/Clipboard_2026-02-07-18-30-45.png)
 ![Clipboard_2026-02-07-18-29-50.png](/attachments/images/Clipboard_2026-02-07-18-29-50.png)
 
