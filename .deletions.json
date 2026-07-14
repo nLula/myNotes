@@ -763,6 +763,11 @@
       "path": "images/1000000576.jpg",
       "type": "attachment",
       "deleted_at": 1784039704.485
+    },
+    {
+      "path": "images/1000000578.png",
+      "type": "attachment",
+      "deleted_at": 1784053583.320457
     }
   ]
 }
