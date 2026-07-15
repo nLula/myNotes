@@ -7,7 +7,9 @@ id: b9c7d38c-f35a-4991-93bd-442e1ef56307
 Totals:
 
 20 days, 5 reserve, 6340km raw + 300 inside towns = 6640 km , Fuel needed: 6640 × 7 / 100 = 464.8 liters
-, At 2.5 per liter: 464.8 × 2.5 = 1,162 EUR for gas, 1.2k rough
+, At 2.5 per liter: 464.8 × 2.5 = 1,162 EUR for gas, 1.2k rough.
+
+
 
 # 1 : 1 day, 8h road, 620km
 ```
