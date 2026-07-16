@@ -1,7 +1,7 @@
 {
   "settings": {
     "trash_expire_months": 6,
-    "lastchanged": 1784236424.869
+    "lastchanged": 1784236549.418
   },
   "deletions": [
     {
@@ -778,6 +778,36 @@
       "path": "images/1000001805.jpg",
       "type": "attachment",
       "deleted_at": 1784063663.1011539
+    },
+    {
+      "path": "images/Clipboard_2026-05-10-13-33-53.png",
+      "type": "attachment",
+      "deleted_at": 1784236539.587
+    },
+    {
+      "path": "images/Clipboard_2026-05-10-13-40-40.png",
+      "type": "attachment",
+      "deleted_at": 1784236539.587
+    },
+    {
+      "path": "images/Clipboard_2026-04-27-16-44-39.png",
+      "type": "attachment",
+      "deleted_at": 1784236539.587
+    },
+    {
+      "path": "images/Clipboard_2026-05-10-13-45-49.png",
+      "type": "attachment",
+      "deleted_at": 1784236539.587
+    },
+    {
+      "path": "images/Clipboard_2026-04-27-17-21-20.png",
+      "type": "attachment",
+      "deleted_at": 1784236539.587
+    },
+    {
+      "path": "2027 HD conversion from EFI to CARB (1600 min setup as of 2026')_2ax8Q94A.md",
+      "type": "note",
+      "deleted_at": 1784236539.587
     }
   ]
 }
