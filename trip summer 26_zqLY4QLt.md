@@ -15,6 +15,10 @@ Totals:
 ```
 https://www.google.com/maps/dir/Tallinn/Klaipeda,+Klaipeda+City+Municipality,+Lithuania/@57.4275085,20.311453,7z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46929499df5616bf:0x400b36d18fc6270!2m2!1d24.7535747!2d59.4369608!1m5!1m1!1s0x46e4dbfae447448b:0x80acbc67146d87a1!2m2!1d21.1442795!2d55.7032948!3e0?entry=ttu&g_ep=EgoyMDI2MDMwNC4xIKXMDSoASAFQAw%3D%3D
 ```
+
+![909.png](/attachments/images/909.png)
+
+
 # 2 : 8 days, 26h road, 2400km
 ```
 https://www.google.com/maps/dir/Kiel,+Germany/Bremen,+Germany/Amsterdam,+Netherlands/Bruges,+Belgium/Dunkirk,+France/Paris,+France/%C3%89tretat,+France/Mont+Saint-Michel,+50170,+France/Brest,+France/La+Rochelle,+France/@47.1580037,5.8574914,5.5z/data=!4m62!4m61!1m5!1m1!1s0x47b2560d8fee97ad:0x4248963c6580320!2m2!1d10.1227651!2d54.3232927!1m5!1m1!1s0x47b128100ceee335:0xc2e8885cf937df51!2m2!1d8.8016936!2d53.0792962!1m5!1m1!1s0x47c63fb5949a7755:0x6600fd4cb7c0af8d!2m2!1d4.9041389!2d52.3675734!1m5!1m1!1s0x47c350d0c11e420d:0x1aa2f35ac8834df7!2m2!1d3.2250586!2d51.2084508!1m5!1m1!1s0x47dc8b6dd9ff20b9:0x40af13e81646da0!2m2!1d2.3767763!2d51.0343684!1m5!1m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460!2m2!1d2.3513765!2d48.8575475!1m5!1m1!1s0x47e017c3893f4e43:0x40c14484fb684d0!2m2!1d0.2055978!2d49.7070069!1m5!1m1!1s0x480ea8d67c9ceeb3:0xc5834ce47e0dc3fe!2m2!1d-1.511457!2d48.636063!1m5!1m1!1s0x4816bbe1d9925b93:0xc6488358179c30ab!2m2!1d-4.4855959!2d48.3899275!1m5!1m1!1s0x48015383c9253d75:0x405d39260ee9640!2m2!1d-1.151139!2d46.160329!3e0?entry=ttu&g_ep=EgoyMDI2MDMwNC4xIKXMDSoASAFQAw%3D%3D
