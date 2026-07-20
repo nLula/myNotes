@@ -75,8 +75,13 @@ https://www.google.com/maps/dir/Amsterdam,+Netherlands/Bruges,+Belgium/Dunkirk,+
 Day 4:
 20.07
 
-Dunkirk -> Etretat
+Dunkirk -> The Dome-> Etretat
 ![Clipboard_2026-02-07-18-27-53.png](/attachments/images/Clipboard_2026-02-07-18-27-53.png)
+
+Coupole d'Helfaut-Wizernes
+
+![1174.png](/attachments/images/1174.png)
+
 
 ```
 https://www.google.com/maps/dir/Dunkirk,+France/%C3%89tretat,+France/@50.3067708,0.6487714,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47dc8b6dd9ff20b9:0x40af13e81646da0!2m2!1d2.3767763!2d51.0343684!1m5!1m1!1s0x47e017c3893f4e43:0x40c14484fb684d0!2m2!1d0.2055978!2d49.7070069!3e0?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoKLDEwMDc5MjA2OUgBUAM%3D
