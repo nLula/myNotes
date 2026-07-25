@@ -10,4 +10,3 @@ Toila-Oru park Narva juures
 
 
 
-https://maps.apple.com/place?address=A+28%2C+76270+Fesques%2C+France&coordinate=49.793390%2C1.500483&name=Ma%D0%BCa+%F0%9F%92%8B%F0%9F%98%9C&map=explore
