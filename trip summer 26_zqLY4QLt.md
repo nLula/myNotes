@@ -251,6 +251,6 @@ Day 18
 
 Riga -> Tallinn
 ```
-https://www.google.com/maps/dir/Riga,+Latvia/Tallinn/@58.1735206,22.298481,7z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46eecfb0e5073ded:0x400cfcd68f2fe30!2m2!1d24.1056221!2d56.9676941!1m5!1m1!1s0x46929499df5616bf:0x400b36d18fc6270!2m2!1d24.7535747!2d59.4369608!3e0?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
+https://www.google.com/maps/dir/Riga,+Latvia/Tallinn/@58.1735206,22.298481,7z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x46eecfb0e5073dedi:0x400cfcd68f2fe30!2m2!1d24.1056221!2d56.9676941!1m5!1m1!1s0x46929499df5616bf:0x400b36d18fc6270!2m2!1d24.7535747!2d59.4369608!3e0?entry=ttu&g_ep=EgoyMDI2MDYxNi4wIKXMDSoASAFQAw%3D%3D
 ```
 
