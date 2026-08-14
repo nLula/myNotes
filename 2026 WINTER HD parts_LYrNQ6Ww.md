@@ -4,25 +4,26 @@ tags: [Moto]
 ---
 # 2026 WINTER HD parts 
 
-1. New Oil Daytona pump to use later with carb conversion:
+1. Feuling  Kit:
 
-Used with standrd camp plate
+https://www.ebay.de/itm/336667925157
 
-https://catalog.zodiac.nl/en/07-engine/oil-pump-cam-plate-cam-chain-drive/twin-cam-oil-pumps-2031
+![myNoteImage_20260814_131609_051.png](/attachments/images/myNoteImage_20260814_131609_051.png)
 
-![Clipboard_2026-05-10-18-32-44.png](/attachments/images/Clipboard_2026-05-10-18-32-44.png)
+1450,- EUR
 
-120,- Eur
 
 
 2. Adjustible pushrods with pushrod tubes
-
 
 
 https://starmoto.ee/pushrods-w-tubes-tc.html
 
 ![Clipboard_2026-03-17-17-17-24.png](/attachments/images/Clipboard_2026-03-17-17-17-24.png)
 
+
+
+---
 
 
 ![Clipboard_2026-03-15-17-12-06.png](/attachments/images/Clipboard_2026-03-15-17-12-06.png)
