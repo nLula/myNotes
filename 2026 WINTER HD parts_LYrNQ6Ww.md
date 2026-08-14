@@ -21,9 +21,9 @@ https://starmoto.ee/pushrods-w-tubes-tc.html
 
 ![Clipboard_2026-03-17-17-17-24.png](/attachments/images/Clipboard_2026-03-17-17-17-24.png)
 
+260 EUR
 
-
----
+3. Gaskets:
 
 
 ![Clipboard_2026-03-15-17-12-06.png](/attachments/images/Clipboard_2026-03-15-17-12-06.png)
@@ -36,13 +36,9 @@ Gaskets between tranny and engine:
 
 https://shop.motorcyclestorehouse.com/product/526077/james-gasket-transmission-to-engine-rcm
 
-Camshaft inner bearings:
+170,- EUR
 
-![Clipboard_2026-03-15-17-34-39.png](/attachments/images/Clipboard_2026-03-15-17-34-39.png)
-
-https://www.motorcyclestorehouse.com/product/503683/andrews-camshaft-inner-bearings
-
-Crankcase Bearing, pinion/sprocket shaft
+4. Crankcase Bearing, pinion/sprocket shaft
 
 https://www.motorcyclestorehouse.com/product/531100/ss-bearing-pinionsprocket-shaft
 
