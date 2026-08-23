@@ -1,7 +1,7 @@
 {
   "settings": {
     "trash_expire_months": 6,
-    "lastchanged": 1787488616.811
+    "lastchanged": 1787488675.106
   },
   "deletions": [
     {
@@ -838,6 +838,11 @@
       "path": "images/Clipboard_2026-03-15-17-34-39.png",
       "type": "attachment",
       "deleted_at": 1786704760.830692
+    },
+    {
+      "path": "images/9880.jpg",
+      "type": "attachment",
+      "deleted_at": 1787488620.963
     }
   ]
 }
