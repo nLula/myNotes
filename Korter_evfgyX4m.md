@@ -10,11 +10,7 @@ Ventilatorq na potolok
 Zonalnaja podsvetka vkl/vqkl obgychnam vqkljuchatelem kak verhnij svet
 Polki v vannu
 
-
-![9915.png](/attachments/images/9915.png)
-
-
-
+![9916.png](/attachments/images/9916.png)
 
 ---
 
