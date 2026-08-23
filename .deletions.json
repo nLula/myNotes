@@ -1,7 +1,7 @@
 {
   "settings": {
     "trash_expire_months": 6,
-    "lastchanged": 1787488675.106
+    "lastchanged": 1787490580.176
   },
   "deletions": [
     {
@@ -843,6 +843,11 @@
       "path": "images/9880.jpg",
       "type": "attachment",
       "deleted_at": 1787488620.963
+    },
+    {
+      "path": "images/9915.png",
+      "type": "attachment",
+      "deleted_at": 1787488685.644
     }
   ]
 }
