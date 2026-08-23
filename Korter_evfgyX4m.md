@@ -12,6 +12,10 @@ Polki v vannu
 
 
 ![9917.png](/attachments/images/9917.png)
+Референс по кухне
+![9920.jpg](/attachments/images/9920.jpg)
+Правильное расположение духовки и микроволновки
+![9919.jpg](/attachments/images/9919.jpg)
 
 
 
