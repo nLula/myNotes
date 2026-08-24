@@ -1,3 +1,6 @@
+---
+id: 938f763d-0c51-44fd-b77e-7eef2ccb8172
+---
 # Novqj stanok
 
 
