@@ -1,5 +1,7 @@
 ---
+trashed_at: 1787770759.604
 id: 938f763d-0c51-44fd-b77e-7eef2ccb8172
+tags: [trash]
 ---
 # Novqj stanok
 
