@@ -10,3 +10,7 @@ Toila-Oru park Narva juures
 
 
 
+Крутой спа-отель в сторону Чудского
+
+![9952.png](/attachments/images/9952.png)
+
