@@ -3,6 +3,10 @@ id: e5ca8bb3-e5ce-4297-9f5c-89ac0ffc3bab
 ---
 # Bathroom
 
+![myNoteImage_20260827_155434_734.png](/attachments/images/myNoteImage_20260827_155434_734.png)
+
+
+
 Valamu:
 
 ![myNoteImage_20260827_104139_452.png](/attachments/images/myNoteImage_20260827_104139_452.png)
