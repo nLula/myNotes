@@ -5,19 +5,19 @@ id: c34c11a4-5593-4d9d-aef2-0e714bbb64b5
 
 Parts:
 
-Valve 1 inch: 27 eur
+Valve 1 inch: 48 eur
 ```
-https://www.aliexpress.com/item/1005004610251782.html?spm=a2g0o.productlist.main.18.234552ceCgMuOu&algo_pvid=f4826dd3-8b4f-4a0c-8899-1a4e5aec2f2c&algo_exp_id=f4826dd3-8b4f-4a0c-8899-1a4e5aec2f2c-17&pdp_ext_f=%7B%22order%22%3A%221551%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%2124.10%2121.84%21%21%21184.56%21167.18%21%4021038b2f17877353198043018e1051%2112000029855144004%21sea%21EE%21192939342%21X%211%210%21n_tag%3A-29919%3Bd%3A28747d78%3Bm03_new_user%3A-29895&curPageLogUid=ySw8U1zzS76A&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004610251782%7C_p_origin_prod%3A
+https://kaup24.ee/et/sanitaartehnika-remont-kute/kanalisatsioonitorud-uhendused/torude-uhendused-ventiilid/elektriline-kuulkraan-ajamiga-dn25-1-220v?id=129285595&aq=20866be807c0395d7d14a1cb9901e184
 ```
 
-Adapter: 12.00 €
+Adapter: 8.80 €
 
-```https://www.oomipood.ee/en/product/toiteplokk_12vdc_3a_36w_ip20_aura```
+```https://www.oomipood.ee/et/product/pce12_5_2_4_wm_toiteadapter_5v_2_4a_12w_2_1_5_5mm_pistik_smps?product_id=1144400```
 
 Relay x2: 5 €
 
 ```
-https://www.oomipood.ee/product/pre0004_12_autorelee_12vdc_14v_40a_hfv4_012
+https://www.oomipood.ee/product/oky3041_ssr_5vdc_kontaktivaba_releemoodul_240vac_2a
 ```
 
 ESP32: 8.50 €
@@ -26,11 +26,6 @@ ESP32: 8.50 €
 https://www.oomipood.ee/product/esp32c3_wifi_bt_50le_riscv_160mhz_4mb_1xusbc
 ```
 
-DC-DC Coverter: 4.50 €
-
-```
-https://www.oomipood.ee/product/oky3502_toitemoodul_dc_dc_step_down_3_2_40v_1_25_35v_15w_lm2596s
-```
 
 Box: 6.00 €
 
@@ -38,11 +33,7 @@ Box: 6.00 €
 https://www.oomipood.ee/product/abs_78z_plastkarp_120_80_27mm_hall_veekindel
 ```
 
-220v Cable: 5.50 €
 
-```
-https://www.oomipood.ee/product/cegl11918bk_230vac_toitejuhe_h05vv_f_3g0_75_1_5m_must_neopreen
-```
 
 
 
