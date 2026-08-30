@@ -5,11 +5,7 @@ id: c34c11a4-5593-4d9d-aef2-0e714bbb64b5
 
 Parts:
 
-<<<<<<< local
-Valve 1 inch: 27 eur + ball valve 1/2 inch ?
-=======
 Valve 1 inch: 48 eur
->>>>>>> github
 ```
 https://kaup24.ee/et/sanitaartehnika-remont-kute/kanalisatsioonitorud-uhendused/torude-uhendused-ventiilid/elektriline-kuulkraan-ajamiga-dn25-1-220v?id=129285595&aq=20866be807c0395d7d14a1cb9901e184
 ```
