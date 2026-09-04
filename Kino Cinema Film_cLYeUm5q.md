@@ -9,12 +9,8 @@ Armageddon
 5th Element
 Split seconds
 The Shadow's Edge
-<<<<<<< local
+Rat race
 Советник 2013 с Хавьером Бердемом
 
 ![6727.png](/attachments/images/6727.png)
 
-=======
-Советник 2013 с Хавьером Бердемом
-
->>>>>>> github
