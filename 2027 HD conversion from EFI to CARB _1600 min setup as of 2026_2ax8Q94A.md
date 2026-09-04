@@ -4,6 +4,11 @@ tags: [Moto]
 ---
 # 2027 HD conversion from EFI to CARB (1600 min setup as of 2026')
 
+
+
+One idea: for cases when charging system dies, i need major (right acc switch may be used!) Switch to turn off all electric consumers but ignition system, leaving only efi and coils alive so bike would run as far as it is possible w/o battery being charged
+
+
 # 1. Daytona TC88  TWIN TEC Ignition Module 1008-EX 99-03
 
 ![Clipboard_2026-05-10-13-33-53.png](/attachments/images/Clipboard_2026-05-10-13-33-53.png)
