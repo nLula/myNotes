@@ -1,5 +1,7 @@
 ---
+trashed_at: 1789024331.902
 id: c34c11a4-5593-4d9d-aef2-0e714bbb64b5
+tags: [trash]
 ---
 # Ball valve
 
