@@ -77,6 +77,10 @@ Cream: rgb(254, 250, 245) /
 
 --------
 
+
+https://www.kursi.lv/ru/smesitel-dlja-rakoviny-rubineta-ultra-18-d-n-graphite-170632
+
+
 Электрика фирмы Вилма, серия Квадрум
 
 Умный дом: 
