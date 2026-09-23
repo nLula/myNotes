@@ -1,7 +1,7 @@
 {
   "settings": {
     "trash_expire_months": 6,
-    "lastchanged": 1790181819.128
+    "lastchanged": 1790181919.647
   },
   "deletions": [
     {
@@ -913,6 +913,11 @@
       "path": "IG tips_TuWWuNoH.md",
       "type": "note",
       "deleted_at": 1790181033.782
+    },
+    {
+      "path": "images/6721.png",
+      "type": "attachment",
+      "deleted_at": 1790181902.218
     }
   ]
 }
