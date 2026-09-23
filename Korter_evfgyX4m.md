@@ -6,6 +6,15 @@ id: 572dacb4-4266-45ca-b124-566a347508cd
 
 
 
+
+Перед грунтом позвонить чтобы мы  размеры мы будем снимать    поставили уголки и поставили столешницу
+
+По времени день, макс 2
+
+
+
+
+
 Sdelat stenq s horoshei izoljaciej, kak obqchnaja kvartira
 Prinuditelnaja ventiljacija 
 Okna
