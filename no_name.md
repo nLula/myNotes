@@ -4,7 +4,7 @@ id: 9caa1a8d-17a0-4616-a262-5e2fde9925c1
 ---
 #
 
-this line is entered at 18:36 on pc app.
+this line is entered at 18:e3 on pc app.
 ---
 
 Zakakzat orthodox crosses
@@ -13,10 +13,4 @@ https://www.aliexpress.com/item/1005008431409591.html?browser_id=45a5d03eadcb467
 
 ---
 
-<<<<<<< local
-this line is entered at 18:e3 on pc app.
-=======
-
->>>>>>> github
-
-This line was added on phone at 18.40
+This line was added on phone at 18.44
