@@ -21,3 +21,6 @@ This line is to try 3 min autosynch if no actions taken after text added from ph
 >>>>>>> github
 
 This line is to try 3 min autosynch if no actions taken after text added from phone
+
+
+Testonheto
