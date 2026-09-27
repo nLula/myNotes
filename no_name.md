@@ -5,7 +5,7 @@ id: 9caa1a8d-17a0-4616-a262-5e2fde9925c1
 #
 
 
-testing line
+
 ---
 
 Zakakzat orthodox crosses
@@ -14,13 +14,3 @@ https://www.aliexpress.com/item/1005008431409591.html?browser_id=45a5d03eadcb467
 
 ---
 
-<<<<<<< local
-Added new line on pc but 3 min auto sync  did not work. This was added from phone
-
-This line is to try 3 min autosynch if no actions taken after text added from phone=======
->>>>>>> github
-
-This line is to try 3 min autosynch if no actions taken after text added from phone
-
-
-Testonheto
