@@ -12,3 +12,9 @@ https://www.aliexpress.com/item/1005008431409591.html?browser_id=45a5d03eadcb467
 
 ---
 
+<<<<<<< local
+This line was added on phone at 18.45
+=======
+this line is entered at 18:e3 on pc app.
+
+>>>>>>> github
