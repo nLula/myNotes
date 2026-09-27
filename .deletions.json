@@ -1,7 +1,7 @@
 {
   "settings": {
     "trash_expire_months": 6,
-    "lastchanged": 1790494710.136
+    "lastchanged": 1790495018.719
   },
   "deletions": [
     {
@@ -936,6 +936,11 @@
     },
     {
       "path": "https_arvutitark.ee_tarvikud-ja-lisad_kaablid-ja-adapterid_videokaablid_cable-hdmi-hdmi-18m-v14cc-hd.md",
+      "type": "note",
+      "deleted_at": 1790494097.692
+    },
+    {
+      "path": "no_name.md",
       "type": "note",
       "deleted_at": 1790494097.692
     }
